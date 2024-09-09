@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Carousel } from "react-responsive-carousel";
+import "react-responsive-carousel/lib/styles/carousel.min.css";
+
 
 const placeholderImages = [
   "https://www.hormel.com/brands/hormel-pepperoni/wp-content/uploads/sites/3/Recipes_2400_Pepperoni_Cup_Crips_Sweet_Spicy_Basil_Pep_Hot_Honey-1700x708.jpg",
