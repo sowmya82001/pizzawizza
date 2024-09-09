@@ -1,5 +1,5 @@
 import Card from "@/components/home/Card";
-import CarouselComponent from "@/components/home/carousel";
+import CarouselComponent from '@/components/home/Carousel';
 import { Inter } from "next/font/google";
 import { useEffect, useState } from "react";
 import { baseUrl } from "@/utils/baseUrl";
